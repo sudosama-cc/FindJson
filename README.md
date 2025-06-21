@@ -1,4 +1,4 @@
-### 6. Installation of requirements.txt
+### Installation of requirements.txt
 ```bash
 pip3 install -r requirements.txt
 ```
