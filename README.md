@@ -14,3 +14,7 @@ Finds and saves the target site's json endpoints.
 ### Example Usage
 
 ![FindJson](findjson.png)
+
+### Note
+
+"Ensure that WaybackURLs and GAU are installed before using this tool."
